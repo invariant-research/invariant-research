@@ -26,11 +26,11 @@ Observation
      ↓
 Hypothesis
      ↓
-Data
+   Data
      ↓
-Model
+   Model
      ↓
-Robustness
+ Robustness
      ↓
 Systematic Expression
 ```
